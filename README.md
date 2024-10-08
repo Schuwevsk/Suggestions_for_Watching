@@ -1,5 +1,6 @@
-# Suggestions_for_Watching
-Here, I created a suggestor for movie and series. Don't is very nice, but I tried and strived me for let functional.
+# 🥤Suggestions_for_Watching🍕
+🎃Here, I created a suggestor for movie and series. Don't is very nice, but I tried and strived me for let functional.
+
 
 let ageInput;    // variáveis para o setup.
 let genreInput1; // variáveis para o setup.
@@ -71,6 +72,7 @@ function runSuggestion (age,likeFantasy,likeRomance) {
   return "Cars";
 }
 }
+
 
 html, body {
   margin: 20px;
